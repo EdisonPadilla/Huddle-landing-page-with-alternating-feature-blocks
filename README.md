@@ -46,7 +46,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution repository](https://github.com/EdisonPadilla/Huddle-landing-page-with-alternating-feature-blocks)
-- Live Site URL: [live site (github page)](https://your-live-site-url.com)
+- Live Site URL: [live site (github page)](https://edisonpadilla.github.io/Huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
 
