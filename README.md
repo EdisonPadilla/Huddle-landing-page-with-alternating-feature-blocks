@@ -29,19 +29,19 @@ Users should be able to:
 
 - Screenshots desktop solution
 
-![](./screenshots-solutions\screenshot1-desktop-solution.PNG)
-![](./screenshots-solutions\screenshot2-desktop-solution.PNG)
-![](./screenshots-solutions\screenshot3-desktop-solution.PNG)
-![](./screenshots-solutions\screenshot4-desktop-solution.PNG)
+![](./screenshots-solutions/screenshot1-desktop-solution.PNG)
+![](./screenshots-solutions/screenshot2-desktop-solution.PNG)
+![](./screenshots-solutions/screenshot3-desktop-solution.PNG)
+![](./screenshots-solutions/screenshot4-desktop-solution.PNG)
 
 - Screenshots mobile solution
 
-![](./screenshots-solutions\screenshot1-mobile-solution.PNG)
-![](./screenshots-solutions\screenshot2-mobile-solution.PNG)
-![](./screenshots-solutions\screenshot3-mobile-solution.PNG)
-![](./screenshots-solutions\screenshot4-mobile-solution.PNG)
-![](./screenshots-solutions\screenshot5-mobile-solution.PNG)
-![](./screenshots-solutions\screenshot6-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot1-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot2-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot3-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot4-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot5-mobile-solution.PNG)
+![](./screenshots-solutions/screenshot6-mobile-solution.PNG)
 
 ### Links
 
